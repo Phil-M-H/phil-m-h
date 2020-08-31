@@ -1,2 +1,1 @@
-### Hello there!
-#### Be sure to check out my newly minted personal website, [philmh.dev](philmh.dev)
+# Be sure to check out my newly minted personal website, [philmh.dev](philmh.dev)
